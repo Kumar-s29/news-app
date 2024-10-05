@@ -1,5 +1,2 @@
 
-  # https://newznow.netlify.app
-
-
-**React+Bootstrap
+# React+Bootstrap
